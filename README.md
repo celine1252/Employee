@@ -93,4 +93,23 @@ pip install -r requirements.txt
 
 # Mở notebook
 jupyter notebook
+```
 
+---
+
+## 📸 Minh họa
+![Attrition Distribution](images/attrition_distribution.png)  
+*Biểu đồ phân phối nhân viên nghỉ việc vs không nghỉ việc.*  
+
+---
+
+## 👤 Tác giả
+🌟 **Thông tin cá nhân**  
+
+- Tên: Nguyễn Văn A  
+- Email: nguyenvana@example.com  
+- LinkedIn: [linkedin.com/in/nguyenvana](https://linkedin.com/in/nguyenvana)  
+- Portfolio: [my-portfolio.com](https://my-portfolio.com)  
+
+---
+⭐ Nếu thấy dự án hữu ích, hãy **Star** repo để ủng hộ nhé!
