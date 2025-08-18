@@ -86,11 +86,12 @@ pip install -r requirements.txt
 
 # Mở notebook
 jupyter notebook
+---
 
-##📸 Minh họa
+## 📸 Minh họa
 Phân phối nhân viên nghỉ việc vs không nghỉ việc.
 
-##👤 Tác giả
+## 👤 Tác giả
 🌟 Thông tin cá nhân
 
 Tên: Nguyễn Văn A
