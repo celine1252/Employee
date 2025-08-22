@@ -18,7 +18,7 @@ Dự án này tập trung vào việc **phân tích và dự đoán khả năng 
 
 ## 🗂️ Bộ dữ liệu
 - **Nguồn**: HR Analytics Dataset.  
-- **Số lượng mẫu**: ~XXXX nhân viên.  
+- **Số lượng mẫu**: 1000 nhân viên.  
 - **Biến quan trọng**: Tuổi, giới tính, thành phố, kinh nghiệm, học vấn, mức lương, loại hợp đồng.  
 - **Nhãn dự đoán**: `Attrition` (Yes/No).  
 
