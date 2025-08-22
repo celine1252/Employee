@@ -106,9 +106,9 @@ jupyter notebook
 ## 👤 Tác giả
 🌟 **Thông tin cá nhân**  
 
-- Tên: Nguyễn Văn A  
-- Email: nguyenvana@example.com  
-- LinkedIn: [linkedin.com/in/nguyenvana](https://linkedin.com/in/nguyenvana)  
+- Tên: Tô Huỳnh Ngọc Ngân
+- Email: thnn0125@gmail.com
+- LinkedIn: https://www.linkedin.com/in/moon0125/
 - Portfolio: [my-portfolio.com](https://my-portfolio.com)  
 
 ---
