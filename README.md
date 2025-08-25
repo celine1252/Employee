@@ -1,8 +1,8 @@
 # 🚀 Dự đoán khả năng nghỉ việc của nhân viên (HR Attrition Prediction)
 
-![GitHub last commit](https://img.shields.io/github/last-commit/<username>/<repo-name>)
-![GitHub issues](https://img.shields.io/github/issues/<username>/<repo-name>)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/<username>/<repo-name>)
+![GitHub last commit](https://img.shields.io/github/last-commit/nelsonto23/employee-attrition-prediction)
+![GitHub issues](https://img.shields.io/github/issues/nelsonto23/employee-attrition-prediction)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/nelsonto23/employee-attrition-prediction)
 
 ---
 
